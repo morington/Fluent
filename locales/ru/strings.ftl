@@ -1,0 +1,1 @@
+what-is-python = Python — это язык программирования
